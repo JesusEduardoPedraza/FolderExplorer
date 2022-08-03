@@ -1,0 +1,27 @@
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.deps.json
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.runtimeconfig.json
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.runtimeconfig.dev.json
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.dll
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.pdb
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.csprojResolveAssemblyReference.cache
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.csproj.CoreCompileInputs.cache
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.AssemblyInfoInputs.cache
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.AssemblyInfo.cs
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.dll
+D:\source\repos\FolderExplorer\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.pdb
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.deps.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.runtimeconfig.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.runtimeconfig.dev.json
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.dll
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\bin\Debug\netcoreapp2.0\FolderExplorer.pdb
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.csproj.AssemblyReference.cache
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.AssemblyInfoInputs.cache
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.AssemblyInfo.cs
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.csproj.CoreCompileInputs.cache
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.dll
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.pdb
+C:\Users\PCLALO\Desktop\VS .NET CORE MVC\proyectos\FolderExplorer\FolderExplorer\obj\Debug\netcoreapp2.0\FolderExplorer.genruntimeconfig.cache
